@@ -1,6 +1,9 @@
 # SQL-Book-Store
 SQL Book Store management system for Blinkit SDE Intern Assignment
 
+## ER Diagram
+<img width="642" alt="image" src="Database ER diagram.png">
+
 ## Code flow
 
 1. ```tables/tables.sql```
